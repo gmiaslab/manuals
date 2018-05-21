@@ -1,0 +1,83 @@
+##Analysis Done Using ClassificaIO on 2018-05-20,
+,
+##Testing Data File:,
+##/Users/Supplementary Files/S3_Iris_Testing_DataSet.csv,
+##Dependent Data File:,
+##/Users/Supplementary Files/S1_Iris_Dependent_DataSet.csv,
+##Target Data File:,
+##/Users/Supplementary Files/S2_Iris_Target.csv,
+,
+##PARAMETERS: ,
+##random_state = None,
+##shuffle = True,
+##penalty = l2,
+##multi_class = ovr,
+##solver = liblinear,
+##max_iter= 100,
+##tol = 0.0001,
+##intercept_scaling = 1.0,
+##verbose = 0,
+##n_jobs = 1,
+##C = 1.0,
+##fit_intercept = True,
+##dual = False,
+##warm_start = False,
+##class_weight = None,
+,
+"##Confusion Matrix, Model Accuracy & Error:",
+##      Predicted Class,
+##True  | 0     1     2     ,
+##Class -------------------,
+##0     | 6     0     0     ,
+##1     | 0     11    1     ,
+##2     | 0     0     9     ,
+##,
+##Classification Accuracy:  96.3 %,
+##Classification Error (MR):  3.7 %,
+,
+##Total objects tested: 45,
+3,0
+4,0
+8,0
+9,0
+10,0
+13,0
+15,0
+17,0
+19,0
+27,0
+29,0
+33,0
+38,0
+44,0
+48,0
+55,1
+56,1
+57,2
+67,2
+69,1
+72,1
+76,1
+79,1
+84,2
+88,1
+91,1
+95,1
+98,1
+104,2
+107,2
+109,2
+114,2
+117,2
+118,2
+122,2
+124,2
+125,2
+128,2
+132,2
+136,2
+138,2
+141,2
+143,2
+147,2
+150,2

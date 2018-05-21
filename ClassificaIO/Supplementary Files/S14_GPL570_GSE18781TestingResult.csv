@@ -1,0 +1,62 @@
+##Analysis Done Using ClassificaIO on 2018-05-21,
+,
+##Testing Data File:,
+##/Users/Supplementary Files/S10_GPL570_GSE18781_Testing_DataSet.csv,
+##Dependent Data File:,
+##/Users/Supplementary Files/S8_GPL570_GSE99039_Dependent_DataSet.csv,
+##Target Data File:,
+##/Users/Supplementary Files/S9_GPL570_GSE99039_Target.csv,
+##Features Data File:,
+##/Users/Supplementary Files/S11_Y_ChromosomeGenes_FeatureNames.csv,
+,
+##PARAMETERS: ,
+##randome_state = None,
+##shuffle = True,
+##loss = squared_hinge,
+##multi_class = ovr,
+##penalty = l2,
+##max_iter = 1000,
+##tol = 0.0001,
+##intercept_scaling = 1.0,
+##verbose = 0,
+##C = 1.0,
+##dual = True,
+##fit_intercept = True,
+##class_weight = None,
+,
+"##Confusion Matrix, Model Accuracy & Error:",
+##      Predicted Class,
+##True  | 0     1     ,
+##Class -------------,
+##0     | 35    0     ,
+##1     | 1     85    ,
+##,
+##Classification Accuracy:  99.17 %,
+##Classification Error (MR):  0.83 %,
+,
+##Total objects tested: 25,
+GSM465925.CEL.gz,1
+GSM465926.CEL.gz,1
+GSM465927.CEL.gz,1
+GSM465928.CEL.gz,0
+GSM465929.CEL.gz,0
+GSM465930.CEL.gz,0
+GSM465931.CEL.gz,0
+GSM465932.CEL.gz,0
+GSM465933.CEL.gz,1
+GSM465934.CEL.gz,0
+GSM465935.CEL.gz,0
+GSM465936.CEL.gz,1
+GSM465937.CEL.gz,1
+GSM465938.CEL.gz,1
+GSM465939.CEL.gz,0
+GSM465940.CEL.gz,1
+GSM465941.CEL.gz,1
+GSM465942.CEL.gz,1
+GSM465943.CEL.gz,1
+GSM465944.CEL.gz,1
+GSM465945.CEL.gz,1
+GSM465946.CEL.gz,1
+GSM465947.CEL.gz,0
+GSM465948.CEL.gz,1
+GSM465949.CEL.gz,1
