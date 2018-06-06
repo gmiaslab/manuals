@@ -2,9 +2,9 @@
 This directory contains the manual for ClassificaIO
 * https://github.com/gmiaslab/ClassificaIO
 ## Supplementary Files
-The files in this directory accompany the manual.
+The files in this directory accompany the user manual.
 ## Licensing
-ClassificaIO, its manuals and supplementary files are provided under an MIT license.
+ClassificaIO, its user manual and supplementary files are provided under an MIT license.
 
 ## Citations
 If you find ClassificaIO useful in your projects, please cite the relevant publications
